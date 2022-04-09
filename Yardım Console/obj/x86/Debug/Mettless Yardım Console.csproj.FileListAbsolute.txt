@@ -1,0 +1,13 @@
+C:\Users\Mettless Dizayn\AppData\Local\Temporary Projects\Mettless Yardım Console\bin\Debug\Mettless Yardım Console.exe
+C:\Users\Mettless Dizayn\AppData\Local\Temporary Projects\Mettless Yardım Console\bin\Debug\Mettless Yardım Console.pdb
+C:\Users\Mettless Dizayn\AppData\Local\Temporary Projects\Mettless Yardım Console\obj\x86\Debug\Mettless Yardım Console.exe
+C:\Users\Mettless Dizayn\AppData\Local\Temporary Projects\Mettless Yardım Console\obj\x86\Debug\Mettless Yardım Console.pdb
+C:\Users\Mettless Dizayn\Desktop\Mettless Yardım Console\Mettless Yardım Console\obj\x86\Debug\Mettless Yardım Console.exe
+C:\Users\Mettless Dizayn\Desktop\Mettless Yardım Console\Mettless Yardım Console\obj\x86\Debug\Mettless Yardım Console.pdb
+C:\Users\Mettless Dizayn\Desktop\Mettless Yardım Console\Mettless Yardım Console\bin\Debug\Mettless Yardım Console.exe
+C:\Users\Mettless Dizayn\Desktop\Mettless Yardım Console\Mettless Yardım Console\bin\Debug\Mettless Yardım Console.pdb
+D:\Belgelerim\C# Console\Mettless Yardım Console\Mettless Yardım Console\obj\x86\Debug\Mettless Yardım Console.exe
+D:\Belgelerim\C# Console\Mettless Yardım Console\Mettless Yardım Console\obj\x86\Debug\Mettless Yardım Console.pdb
+D:\Belgelerim\C# Console\Mettless Yardım Console\Mettless Yardım Console\bin\Debug\Mettless Yardım Console.exe
+D:\Belgelerim\C# Console\Mettless Yardım Console\Mettless Yardım Console\bin\Debug\Mettless Yardım Console.pdb
+D:\Belgelerim\C# Console\Mettless Yardım Console\Mettless Yardım Console\obj\x86\Debug\Mettless Yardım Console.csprojResolveAssemblyReference.cache
